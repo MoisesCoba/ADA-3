@@ -1,5 +1,5 @@
 # ADA-3
-Elaborao por Moises coba turriza
+Elaborado por Moises coba turriza
 
 En forma individual, instala y configura un framework del lado del servidor. Posteriormente realiza una aplicación que acepte un nombre en una ventana de diálogo o en un formulario HTML simple y retorne una página de bienvenida. Documenta el proceso en el archivo Read.ME
 En este caso se utilizo django para realizar el formulario a continuacion se muestra los resultados:
